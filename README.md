@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dipankershaha and a Computer Science And Engineering Graduate
 - 👀 I’m interested in problem solving and learning new things
-- 🌱 I’m currently learning web technologies
+- 🌱 I’m currently working with web technologies
 - 📫 Anyone can reach me via email dipankershaha@gmail.com
 
 <!---
